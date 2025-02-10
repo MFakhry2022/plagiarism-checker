@@ -1,0 +1,8 @@
+spacy
+numpy
+pandas
+python-docx
+scikit-learn
+gensim
+sentence-transformers
+reportlab
